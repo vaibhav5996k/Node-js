@@ -1,0 +1,12 @@
+open vs code join it with folder and create package...........
+
+package created by typing npm init in terminal of vscode .
+after that create .js file from we going to start server.
+
+next we have to write a code in .js file,..
+add veriable in .js file.
+invock express but before that u have to install express dependancy
+by typing npm install express..
+ 
+then app to express and then app . listen to listen at given port.....
+
